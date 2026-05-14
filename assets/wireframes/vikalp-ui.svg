@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350" style="background:#fff; font-family:sans-serif;">
+  <rect x="20" y="20" width="560" height="310" rx="5" fill="white" stroke="#ccc"/>
+  <!-- Header -->
+  <text x="40" y="60" font-size="18" font-weight="bold">Other Preferences</text>
+  
+  <!-- Vikalp Card -->
+  <rect x="40" y="80" width="520" height="150" rx="5" fill="#f0f8ff" stroke="#0056b3"/>
+  <text x="60" y="110" font-size="16" font-weight="bold" fill="#0056b3">✨ Increase Confirmation Chances</text>
+  <text x="60" y="135" font-size="14" fill="#333">Opt into Vikalp to get confirmed tickets on alternate trains.</text>
+  <text x="60" y="155" font-size="14" fill="#d9534f" font-weight="bold">Note: Train timing and boarding station may change.</text>
+  
+  <rect x="60" y="180" width="180" height="30" rx="3" fill="#0056b3"/>
+  <text x="150" y="200" font-size="14" fill="white" text-anchor="middle">Learn More &amp; Opt In</text>
+  
+  <!-- Annotations -->
+  <line x1="250" y1="195" x2="300" y2="240" stroke="red" stroke-dasharray="4"/>
+  <text x="310" y="250" fill="red" font-size="12">Opens detailed consent modal explaining shifts</text>
+</svg>

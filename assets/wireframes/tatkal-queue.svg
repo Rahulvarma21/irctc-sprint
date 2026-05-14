@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" style="background:#f4f4f4; font-family:sans-serif;">
+  <rect x="50" y="50" width="500" height="300" rx="10" fill="white" stroke="#ccc"/>
+  <text x="300" y="100" text-anchor="middle" font-size="24" font-weight="bold">Tatkal Virtual Waiting Room</text>
+  <text x="300" y="150" text-anchor="middle" font-size="16" fill="#555">You are in line to book Tatkal tickets.</text>
+  <!-- Queue position -->
+  <text x="300" y="200" text-anchor="middle" font-size="36" font-weight="bold" fill="#0056b3">#4,521</text>
+  <!-- Progress bar -->
+  <rect x="100" y="240" width="400" height="20" rx="10" fill="#eee"/>
+  <rect x="100" y="240" width="250" height="20" rx="10" fill="#28a745"/>
+  <text x="300" y="280" text-anchor="middle" font-size="14" fill="#666">Estimated Wait Time: 4 minutes</text>
+  <!-- Annotations -->
+  <line x1="180" y1="250" x2="150" y2="320" stroke="red" stroke-dasharray="4"/>
+  <text x="150" y="340" fill="red" font-size="12">Progress indicator</text>
+</svg>
